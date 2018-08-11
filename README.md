@@ -1,4 +1,4 @@
-# Working_Of_Blockchain-
+# Working Of Blockchain
 An OpenGL computer graphic mini-project on Working of Blockchain 
 
 ### Installation Instruction (Ubuntu/Linux)
