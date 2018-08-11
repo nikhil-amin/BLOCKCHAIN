@@ -1,0 +1,164 @@
+﻿Build started 31-05-2018 01:44:33.
+     1>Project "C:\Users\Nikhil Amin\Documents\Visual Studio 2015\Projects\BLOCKCHAIN\BLOCKCHAIN\BLOCKCHAIN.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Glew and Glut\freeglut\include" /I"C:\Glew and Glut\glew-1.11.0\include" /I"C:\Users\Nikhil Amin\Documents\Visual Studio 2015\Projects\BLOCKCHAIN\BLOCKCHAIN" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(99): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(100): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(115): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(118): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(121): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(124): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(127): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(130): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(133): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(136): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(139): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(142): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(145): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(148): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(153): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(170): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(173): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(176): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(179): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(182): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(185): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(188): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(242): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(258): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(265): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(317): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(322): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(327): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(334): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(339): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(344): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(428): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(431): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(438): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(455): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(462): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(471): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(480): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(489): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(536): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(545): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(554): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(563): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(610): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(684): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(718): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(723): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(728): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(733): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(738): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(743): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(750): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(757): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(764): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(771): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(778): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(785): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(793): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(811): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(830): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(841): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(842): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(863): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(868): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(875): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(884): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(893): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(940): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(947): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(956): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(965): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1012): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1084): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1114): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1119): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1124): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1129): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1134): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1139): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1144): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1149): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1154): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1159): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1164): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1169): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1232): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1238): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1248): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1254): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1261): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1268): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1285): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1292): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1299): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1318): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1319): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1320): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1321): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1347): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1348): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1349): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1350): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1367): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1375): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1384): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1393): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1445): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1454): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1463): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1516): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1525): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1534): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1586): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1595): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1604): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1742): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1917): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1924): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1932): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1949): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1956): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1987): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1988): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1990): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(1991): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(2006): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(2020): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(2023): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(2039): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(2071): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(2073): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(2074): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(2089): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(2103): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(2106): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(2122): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(2154): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(2157): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(2173): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(2187): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(2190): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(2205): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(2237): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(2240): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(2256): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(2270): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(2273): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(2288): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(2302): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(2305): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\nikhil amin\documents\visual studio 2015\projects\blockchain\blockchain\source.cpp(2313): warning C4018: '<': signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Nikhil Amin\Documents\Visual Studio 2015\Projects\BLOCKCHAIN\Debug\BLOCKCHAIN.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Glew and Glut\freeglut\lib" /LIBPATH:"C:\Glew and Glut\glew-1.11.0\lib" freeglut.lib glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Nikhil Amin\Documents\Visual Studio 2015\Projects\BLOCKCHAIN\Debug\BLOCKCHAIN.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Nikhil Amin\Documents\Visual Studio 2015\Projects\BLOCKCHAIN\Debug\BLOCKCHAIN.lib" /MACHINE:X86 Debug\Source.obj
+         BLOCKCHAIN.vcxproj -> C:\Users\Nikhil Amin\Documents\Visual Studio 2015\Projects\BLOCKCHAIN\Debug\BLOCKCHAIN.exe
+     1>Done Building Project "C:\Users\Nikhil Amin\Documents\Visual Studio 2015\Projects\BLOCKCHAIN\BLOCKCHAIN\BLOCKCHAIN.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.91
