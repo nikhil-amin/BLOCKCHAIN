@@ -10,7 +10,7 @@ sudo apt-get install freeglut3 freeglut3-dev
 - Clone the repository and 'cd' over to [the main directory](https://github.com/nikhilamin073/BLOCKCHAIN), execute the following command
 
 ```
-$ gcc main.cpp -lGL -lGLU -lglut -lm -o output
+$ gcc Source.cpp -lGL -lGLU -lglut -lm -o output
 $ ./output
 ```
 ### Instruction for CodeBlocks
